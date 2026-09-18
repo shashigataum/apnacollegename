@@ -1,2 +1,2 @@
 # apnacollegename
-This is a Git Repository
+This is a  Git Repository class.
